@@ -1,0 +1,12 @@
+Ramiro
+carrera 15Pizza: napolitana
+Cantidad: 2Pizza: Muzzarella
+Cantidad: 33
+Ramiro Angarita
+carrera 28
+Pizza: napolitana
+Cantidad: 2
+Pizza: Muzzarella
+Cantidad: 3
+Pizza: Jamon y queso
+Cantidad: 12
